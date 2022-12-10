@@ -30,7 +30,7 @@ This site was based on a project by edX Boot Camps LLC.
 
 The changes were checked with [W3C Validator](https://validator.w3.org/).
 
-Recommendations for headers were taken from [Mozilla guidance on H1 - H6](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+Recommendations for headers were taken from [Mozilla guidance on H1 - H6](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements).
 
 ## License
 
