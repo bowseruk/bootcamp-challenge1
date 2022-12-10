@@ -2,7 +2,7 @@
 
 ## Description 
 
-For this project, the website must meet accessibility standards. This was achieved by completing the following:
+For this project, a webpage was editted to meet accessibility standards. This was achieved by completing the following:
 
 * Div elements changed to Semantic HTML elements throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
@@ -10,7 +10,7 @@ For this project, the website must meet accessibility standards. This was achiev
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-This improved the usability of the inital code with screen readers.
+This improved the accesibility of the inital code with technologies such as screen readers.
 
 ## Installation
 
@@ -18,13 +18,9 @@ The site does not require installation steps.
 
 ## Usage 
 
-The website can be viewed at [https://](http://) with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
+The website can be viewed at [https://bowseruk.github.io/bootcamp-challenge1/](https://bowseruk.github.io/bootcamp-challenge1/) with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+![Screenshot of the image](assets/images/screenshot.png)
 
 ## Credits
 
