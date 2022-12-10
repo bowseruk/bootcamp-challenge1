@@ -26,11 +26,11 @@ The website can be viewed at [https://bowseruk.github.io/bootcamp-challenge1/](h
 
 This site was based on a project by edX Boot Camps LLC.
 
-[https://www.w3schools.com/](W3School) was used as a reference for elements to use and good practice.
+[W3School](https://www.w3schools.com/) was used as a reference for elements to use and good practice.
 
-The changes were checked with [https://validator.w3.org/](W3C Validator).
+The changes were checked with [W3C Validator](https://validator.w3.org/).
 
-Recommendations for headers were taken from [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements](Mozilla guidance on H1 - H6)
+Recommendations for headers were taken from [Mozilla guidance on H1 - H6](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 ## License
 
