@@ -2,7 +2,7 @@
 
 ## Description 
 
-For this project, a webpage was editted to meet accessibility standards. This was achieved by completing the following:
+For this project, a webpage was edited to meet accessibility standards. This was achieved by completing the following:
 
 * Div elements changed to Semantic HTML elements throughout the source code.
 * HTML elements follow a logical structure independent of styling and positioning.
