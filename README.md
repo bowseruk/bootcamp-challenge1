@@ -1,4 +1,4 @@
-# Bootcamp Challenge 1
+# Bootcamp Challenge 1 - Horiseon Accessibility Code Review
 
 ## Description 
 
@@ -18,7 +18,7 @@ The site does not require installation steps.
 
 ## Usage 
 
-The website can be viewed at [https://bowseruk.github.io/bootcamp-challenge1/](https://bowseruk.github.io/bootcamp-challenge1/) with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
+The website can be viewed at [https://bowseruk.github.io/bootcamp-challenge1/](https://bowseruk.github.io/horiseon/) with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
 
 ![Screenshot of the webpage](assets/images/screenshot.png)
 
